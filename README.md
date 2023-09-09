@@ -2,7 +2,7 @@
 
 BruteFb
 
-git clone https://github.com/Traversx/DvinzyV3.0/edit/main/README.md
+git clone https://github.com/Traversx/DvinzyV3.0.git
 
 cd DvinzyV3.0
 
